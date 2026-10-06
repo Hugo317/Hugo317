@@ -1,7 +1,10 @@
 # Hi, I'm Hugo 👋
 
-Data analyst and aspiring data scientist. I work mostly in Python — pandas, scikit-learn and
-a bit of deep learning — turning messy data into clear, decision-ready insights.
+Dedicated and driven data analyst and aspiring data scientist. I work mostly in Python — pandas, scikit-learn and
+a bit of deep learning — turning messy data into clear, decision-ready insights with prior experience as a software developer and dev-ops.
+I like making peoples life easier (including mine) and as you can probably tell from my projects besides problem solving I
+am in love with both cars and gaming.
+
 
 ## Featured projects
 
