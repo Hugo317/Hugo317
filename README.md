@@ -1,4 +1,4 @@
-# Hi, I'm Hugo 👋
+# Hi, my name is Hugo!
 
 Dedicated and driven data analyst and aspiring data scientist. I work mostly in Python using pandas, scikit-learn and
 a bit of deep learning using this tool I turn messy data into clear, decision-ready insights. 
